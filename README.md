@@ -1,4 +1,4 @@
-# openscreencast_videos_html_und_css
+# HTML und CSS
 
-Videodateien mit dem Thema HTML und CSS vom Projekt openscreencast.de
+Videodateien mit dem Thema HTML und CSS vom Projekt openscreencast.de    
 Die Lizenz zu einer Video-Datei steht in der dazugehörigen .svg-Datei
